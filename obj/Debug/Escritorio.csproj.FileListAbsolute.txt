@@ -1,0 +1,15 @@
+C:\Users\chuyi\OneDrive\Documentos\Rodriguez Reteria Jesus Alejandro\Universidad\sexto semestre\Seminario de sistemas operativos\Practica 4\Escritorio\bin\Debug\Escritorio.exe.config
+C:\Users\chuyi\OneDrive\Documentos\Rodriguez Reteria Jesus Alejandro\Universidad\sexto semestre\Seminario de sistemas operativos\Practica 4\Escritorio\bin\Debug\Escritorio.exe
+C:\Users\chuyi\OneDrive\Documentos\Rodriguez Reteria Jesus Alejandro\Universidad\sexto semestre\Seminario de sistemas operativos\Practica 4\Escritorio\bin\Debug\Escritorio.pdb
+C:\Users\chuyi\OneDrive\Documentos\Rodriguez Reteria Jesus Alejandro\Universidad\sexto semestre\Seminario de sistemas operativos\Practica 4\Escritorio\bin\Debug\GongShell.xml
+C:\Users\chuyi\OneDrive\Documentos\Rodriguez Reteria Jesus Alejandro\Universidad\sexto semestre\Seminario de sistemas operativos\Practica 4\Escritorio\obj\Debug\Escritorio.csproj.AssemblyReference.cache
+C:\Users\chuyi\OneDrive\Documentos\Rodriguez Reteria Jesus Alejandro\Universidad\sexto semestre\Seminario de sistemas operativos\Practica 4\Escritorio\obj\Debug\Escritorio.chage_name.resources
+C:\Users\chuyi\OneDrive\Documentos\Rodriguez Reteria Jesus Alejandro\Universidad\sexto semestre\Seminario de sistemas operativos\Practica 4\Escritorio\obj\Debug\Escritorio.Explorador.resources
+C:\Users\chuyi\OneDrive\Documentos\Rodriguez Reteria Jesus Alejandro\Universidad\sexto semestre\Seminario de sistemas operativos\Practica 4\Escritorio\obj\Debug\Escritorio.Form1.resources
+C:\Users\chuyi\OneDrive\Documentos\Rodriguez Reteria Jesus Alejandro\Universidad\sexto semestre\Seminario de sistemas operativos\Practica 4\Escritorio\obj\Debug\Escritorio.Properties.Resources.resources
+C:\Users\chuyi\OneDrive\Documentos\Rodriguez Reteria Jesus Alejandro\Universidad\sexto semestre\Seminario de sistemas operativos\Practica 4\Escritorio\obj\Debug\Escritorio.csproj.GenerateResource.cache
+C:\Users\chuyi\OneDrive\Documentos\Rodriguez Reteria Jesus Alejandro\Universidad\sexto semestre\Seminario de sistemas operativos\Practica 4\Escritorio\obj\Debug\Escritorio.csproj.CoreCompileInputs.cache
+C:\Users\chuyi\OneDrive\Documentos\Rodriguez Reteria Jesus Alejandro\Universidad\sexto semestre\Seminario de sistemas operativos\Practica 4\Escritorio\obj\Debug\Escritorio.csproj.CopyComplete
+C:\Users\chuyi\OneDrive\Documentos\Rodriguez Reteria Jesus Alejandro\Universidad\sexto semestre\Seminario de sistemas operativos\Practica 4\Escritorio\obj\Debug\Escritorio.exe
+C:\Users\chuyi\OneDrive\Documentos\Rodriguez Reteria Jesus Alejandro\Universidad\sexto semestre\Seminario de sistemas operativos\Practica 4\Escritorio\obj\Debug\Escritorio.pdb
+C:\Users\chuyi\OneDrive\Documentos\Rodriguez Reteria Jesus Alejandro\Universidad\sexto semestre\Seminario de sistemas operativos\Practica 4\Escritorio\obj\Debug\Escritorio.csproj.SuggestedBindingRedirects.cache
